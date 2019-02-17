@@ -1,0 +1,7 @@
+{
+  "timer":"120", 
+  "domains": [
+    {"token": "XXX", "domain":"example.org", "record":"example", "rtype":"A"},
+    {"token": "AAA", "domain":"example.org", "record":"cloud", "rtype":"A"}
+  ]
+}
